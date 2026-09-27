@@ -1,2 +1,2 @@
- # SE Practical - Project Workflow Demo
- This repository demonstrates Git/GitHub version control and collaboration practices.
+# Project by Team A
+This repository demonstrates Git/GitHub version control and collaboration practices.
